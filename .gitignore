@@ -19,3 +19,6 @@ buildNumber.properties
 
 # IntelliJ
 /out/
+
+# Derby DB log file:
+derby.log
